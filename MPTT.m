@@ -27,5 +27,3 @@ display(" maximum power output by load resistor:");
 display(power);
 
 display("Hence,it is proove the for maximum power the load resistor is equal to equivalent to Rth");
-
-
